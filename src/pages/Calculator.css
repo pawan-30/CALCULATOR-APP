@@ -1,0 +1,11 @@
+.container{
+    margin-top: 200px;
+    height: 375px;
+    width: 400px;
+    background-color: rgb(13, 8, 45);
+}
+.card{
+    height: auto;
+    width: 370px;
+    background-color: rgb(192, 223, 216);
+}
